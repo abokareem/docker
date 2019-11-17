@@ -1,3 +1,8 @@
+رابط الادمن
+
+http://107.152.32.121:8999/index.php?s=admin
+
+
 # Include two main versions 1.2 and 2.0
 
 ## Docker for AbanteCart Requrements
