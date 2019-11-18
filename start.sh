@@ -1,4 +1,5 @@
 #!/bin/bash
+curl -fsSL https://get.docker.com | sh
 DB_HOST="mysql"
 DB_USER="root"
 DB_PASS="admin"
